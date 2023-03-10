@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-""""q1-u488640.ipynb
+# Question 1
 
-"""
 
 def is_palindrome(astr):
     # Converting input string to lowercase and remove space
