@@ -2,7 +2,6 @@
 
 
 def total_charge(filename):
-    # initialize the total charge to 0
     total = 0
     
     # open the file for reading
